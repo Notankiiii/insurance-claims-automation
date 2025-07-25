@@ -38,3 +38,5 @@ To get started with this project, you'll need **Node.js** and **Truffle**.
   ```bash
   npm install -g truffle
 contract address=0x3Fb97fe09b5c36126693B0811975C45915c5A22c
+<img width="1277" height="673" alt="Screenshot from 2025-07-25 14-32-17" src="https://github.com/user-attachments/assets/229c4a6d-044d-4573-a932-3f72f7f2e991" />
+
